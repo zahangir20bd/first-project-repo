@@ -1,0 +1,9 @@
+/* .body{
+    width: 70%;
+    margin: auto;
+} */
+
+.header{
+    height: 200px;
+    background-image: url('../Images/hole_background.jpg');
+}
